@@ -10,3 +10,7 @@ Nesse repositório irá conter materiais, exercícios e artigos sobre curadoria 
 # Exercícios
   
 # Artigos
+
+[2019 - An extensive review of tools for manual annotation of documents](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz130/5670958)
+
+[2018 - Manual Gene Curation and Functional Annotation](https://link.springer.com/protocol/10.1007%2F978-1-4939-7804-5_16)
