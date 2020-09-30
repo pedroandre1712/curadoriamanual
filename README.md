@@ -1,5 +1,7 @@
 # curadoriamanual
 Nesse repositório irá conter materiais, exercícios e artigos sobre curadoria manual.
+
+![dna](https://media.giphy.com/media/3o7TKz2eMXx7dn95FS/giphy.gif)
 # Materiais
 [Vídeo](https://www.youtube.com/watch?v=Wec7ZlXykQc) extenso
 
